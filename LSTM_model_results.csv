@@ -1,0 +1,6 @@
+Model,Test_Loss,Test_Accuracy
+Simple Model,0.33980506658554077,0.8492487668991089
+Increased the number of LSTM layers,0.3335508108139038,0.8576182126998901
+With dropout regularization,0.3314211964607239,0.8581224083900452
+Bidirectional LSTMs,0.33250999450683594,0.85792076587677
+Ensemble methods,0.0,0.0
